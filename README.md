@@ -26,16 +26,16 @@ The performance of each model is evaluated using accuracy. The results are as fo
 
 ### 1.Machine Learning
   Algorithm	 Accuracy	  Precision	  Recall	   F1
-0	  SVC	     0.895735	  0.891865	0.903252	0.897522
-1	  NB	     0.864173	  0.874387	0.853980	0.864063
-2	  LR	     0.882021	  0.876691	0.892081	0.884319
+1.	SVC	     0.895735	  0.891865	0.903252	0.897522
+2.	NB	     0.864173	  0.874387	0.853980	0.864063
+3.  LR	     0.882021	  0.876691	0.892081	0.884319
 
 ### 2. LSTM
-Train Accuracy:0.9307
-Test accuracy:0.875567
-F1 Score: 0.877676
-Recall: 0.889312
-Precision: 0.8663405
+1. Train Accuracy:0.9307
+2. Test accuracy:0.875567
+3. F1 Score: 0.877676
+4. Recall: 0.889312
+5. Precision: 0.8663405
 
 ## Conclusion
 This project demonstrates how to perform sentiment analysis on IMDB dataset reviews using various machine learning and deep learning models. The LSTM model, with its ability to capture sequential dependencies in text, shows promising results compared to traditional machine learning models.
