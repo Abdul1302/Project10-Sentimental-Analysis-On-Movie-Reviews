@@ -25,14 +25,14 @@ The models used for this task include:
 The performance of each model is evaluated using accuracy. The results are as follows:
 
 ### 1.Machine Learning
-  Algorithm	 Accuracy	  Precision	  Recall	   F1
-1.	SVC	     0.895735	  0.891865	0.903252	0.897522
-2.	NB	     0.864173	  0.874387	0.853980	0.864063
-3.  LR	     0.882021	  0.876691	0.892081	0.884319
+  Algorithm	  Accuracy	   Precision	   Recall	       F1
+1.	SVC	      0.895735	   0.891865	    0.903252	  0.897522
+2.	NB	      0.864173	   0.874387	    0.853980	  0.864063
+3.  LR	      0.882021	   0.876691	    0.892081	  0.884319
 
 ### 2. LSTM
-1. Train Accuracy:0.9307
-2. Test accuracy:0.875567
+1. Train Accuracy: 0.9307
+2. Test accuracy: 0.875567
 3. F1 Score: 0.877676
 4. Recall: 0.889312
 5. Precision: 0.8663405
