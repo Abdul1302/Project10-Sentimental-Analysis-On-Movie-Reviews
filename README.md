@@ -2,6 +2,10 @@
 ## Overview
 This project aims to perform sentiment analysis on IMDB dataset reviews using both traditional machine learning models and deep learning models.
 
+## Workflow Diagram 
+
+![Image Alt Text](Workflow-Diagram.jpg)
+
 ## Data Preprocessing
 1. Remove Chatwords: Replace chatwords (e.g., "LOL", "BTW") with their corresponding meanings.
 2. Remove HTML Tags: Clean the text from HTML tags.
